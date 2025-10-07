@@ -5203,3 +5203,7 @@ body {
 img[src="https://cdn.prod.website-files.com/68dfb2b26551a16d1876777a/68dfb2b26551a16d187677ce_close.png"] {
   display: none !important;
 }
+
+.pop-up-item.main {
+  top: -185px;
+}
