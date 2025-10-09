@@ -3806,11 +3806,3 @@ body {
 #w-node-d1d9def4-3a9f-8ddc-d350-2f58c8ed185a-18767777 {
     grid-area: span 1/span 1/span 1/span 1
 }
-
-img[src="https://cdn.prod.website-files.com/68dfb2b26551a16d1876777a/68dfb2b26551a16d187677ce_close.png"] {
-    display: none !important;
-}
-
-.pop-up-item.main {
-    top: -185px;
-}
